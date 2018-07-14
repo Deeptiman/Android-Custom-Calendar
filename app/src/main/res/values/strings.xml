@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CustomCalendar</string>
+
+    <string-array name="holiday_names">
+
+        <item>Republic Day</item>
+        <item>Maha Shivaratri</item>
+        <item>Good Friday</item>
+
+        <item>Ugadi</item>
+        <item>Dr Ambedkar Jayanti</item>
+        <item>Ramazan - Idu\'l Fitr</item>
+
+
+        <item>Independence Day</item>
+        <item>Bakri Id - Idu\'l Zuha</item>
+        <item>Dussehra</item>
+
+
+        <item>Dussehra</item>
+        <item>Muharram</item>
+
+        <item>Diwali</item>
+        <item>Kannada Rajyothsava</item>
+
+    </string-array>
+
+</resources>
