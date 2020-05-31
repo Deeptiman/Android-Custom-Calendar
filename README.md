@@ -11,3 +11,6 @@ This is a sample demo code for Android Custom Calendar (applied own logic).
 
 ## Requirements
 - Android Studio 2.0 or higher
+
+### License
+This project is licensed under the [(MIT License)](https://github.com/Deeptiman/Android-Custom-Calendar/blob/master/LICENSE)
