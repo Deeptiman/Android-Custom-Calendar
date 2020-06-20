@@ -7,7 +7,7 @@ Android Custom Calendar with own applied logic
 This is a sample demo code for Android Custom Calendar (applied own logic). 
 
 ## Demo
-<img src="/screenshots/pic-1.jpg" width="300"/>
+<img src="/screenshots/export_calendar.png" width="300"/>
 
 
 ## Requirements
